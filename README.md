@@ -2,6 +2,7 @@
 
 
 ![Rishang's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishang&show_icons=true&theme=vue)
+
 ![Rishang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishang&show_icons=true&theme=vue)
 
 
